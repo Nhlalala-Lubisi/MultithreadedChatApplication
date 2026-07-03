@@ -1,5 +1,9 @@
 package com.nhlaks;
 
+/**
+ * Entry point for the Multithreaded Chat Application.
+ * Launches either the server or the client depending on the command-line argument provided.
+ */
 public class Main {
 
     public static void main(String[] args) {
