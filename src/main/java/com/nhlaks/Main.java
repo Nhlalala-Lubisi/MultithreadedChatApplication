@@ -7,7 +7,7 @@ package com.nhlaks;
 public class Main {
 
     public static void main(String[] args) {
-
+        // Ensure that an argument has been provided
         if (args.length == 0) {
             System.out.println("""
                     Usage:
@@ -19,9 +19,11 @@ public class Main {
                     """);
             return;
         }
-
+        // Start the chat server
         if (args[0].equalsIgnoreCase("server")) {
             new ChatServer().startServer();
+
+         // Start the chat client
         } else if (args[0].equalsIgnoreCase("client")) {
             new ChatClient().startClient();
         } else {
