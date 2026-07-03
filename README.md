@@ -102,9 +102,9 @@ New client connected.
 
 ```
 Enter username:
-John
+Nhlaks
 
-Sarah joined the chat.
+Lubisi joined the chat.
 Hello everyone
 ```
 
