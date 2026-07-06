@@ -140,4 +140,4 @@ This project demonstrates:
 
 Advanced Diploma in Information Technology (NQF 7)
 
-Software Development | Full-Stack Development | AI & Machine Learning
+Software Development | Full-Stack Development | AI & ML
