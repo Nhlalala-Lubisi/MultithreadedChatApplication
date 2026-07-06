@@ -7,7 +7,7 @@ package com.nhlaks;
 public class Main {
 
     public static void main(String[] args) {
-        // Ensure that an argument has been provided
+        // Ensuring that an argument has been provided
         if (args.length == 0) {
             System.out.println("""
                     Usage:
