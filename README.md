@@ -104,7 +104,7 @@ New client connected.
 Enter username:
 Nhlaks
 
-Lubisi joined the chat.
+Deon joined the chat.
 Hello everyone
 ```
 
