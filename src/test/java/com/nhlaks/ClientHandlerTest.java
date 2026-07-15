@@ -14,7 +14,6 @@ class ClientHandlerTest {
         NullPointerException ex = assertThrows(NullPointerException.class,
             () -> new ClientHandler((Socket) null));
         assertNotNull(ex);
-
     }
 
 }
