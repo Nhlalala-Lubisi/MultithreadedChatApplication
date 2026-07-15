@@ -10,14 +10,12 @@ class MainTest {
     void shouldCreateServerInstance() {
 
         assertDoesNotThrow(ChatServer::new);
-
     }
 
     @Test
     void shouldCreateClientInstance() {
 
         assertDoesNotThrow(ChatClient::new);
-
     }
 
 }
