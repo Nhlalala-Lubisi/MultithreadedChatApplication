@@ -9,7 +9,6 @@ class ChatServerTest {
     void shouldUseCorrectPort() {
 
         assertEquals(5000, ChatServer.PORT);
-
     }
-
+    
 }
